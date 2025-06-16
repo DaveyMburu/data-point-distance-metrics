@@ -13,6 +13,8 @@ In this lab you will:
 - Calculate Euclidean distance between two points
 - Calculate Minkowski distance between two points
 
+# Check the index.ipynb file for my working
+
 ## Getting Started
 
 You'll start by writing a generalized function to calculate any of the three distance metrics you've learned about. Let's review what you know so far:
